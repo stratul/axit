@@ -1,0 +1,229 @@
+ /* X-Large devices (large desktops, less than 1400px) */
+@media (max-width: 1399.98px) {
+
+
+    .testimonial-section .testimonials .testimonial {    
+        padding: 0 35px;
+    }
+
+}
+
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {
+
+    .banner-left h1 {
+        font-size: 32px;
+    }
+    .banner .banner-right form{
+        margin-left: 50px;
+    }
+    
+
+    .testimonial-section .testimonials .testimonial {    
+        padding: 0 20px;
+    }
+
+}
+
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+
+    .banner-left h1 {
+        font-size: 26px;
+    }
+    .banner .banner-right form{
+        margin-left: 0px;
+    }
+    .banner .banner-right form .card-body{
+        padding: 20px;
+    }
+
+
+    .sub-list-section {
+        padding: 60px 0;
+    }
+    .sub-list-section .sub-list-section-right{
+        margin-top: 30px;
+        padding: 0 80px;
+        text-align: center;
+    }
+    .sub-list-section .sub-list-section-right h3 {
+        text-align: center;
+    }
+    .sub-list-section .sub-list-section-right .line {
+        margin: 20px auto;
+
+    }
+    .sub-list-section .sub-list-section-right .updown h4 {
+        margin-top: 10px;
+    }
+
+
+    .std-pic-section {
+        padding: 60px 0;
+    }
+    .std-pic-section .std-pic-section-left{
+        text-align: center;
+        padding: 0 50px;
+    }
+    .std-pic-section .std-pic-section-left h3 {
+        text-align: center;
+    }
+    .std-pic-section .std-pic-section-left .line {
+        margin: 20px auto;
+    }
+
+
+    .pricing-section .pricings .pricing-card {
+        padding: 0 10px;
+    }
+
+    
+
+    .testimonial-section .testimonials .testimonial {    
+        padding: 0 60px;
+        margin-bottom: 30px;
+    }
+
+
+    .download-section {
+        padding: 60px 0;
+    }
+
+
+    .contact-section {
+        padding: 60px 0;
+    }
+
+    footer {
+        padding: 20px 0;
+    }
+    footer a{
+        font-size: 30px;
+    }
+
+
+
+
+}
+
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+
+    .banner .banner-left {
+        height: auto;
+        text-align: center;
+    }
+    .banner .banner-left img {
+        margin-top: 30px;
+    }
+    .banner .banner-left div {
+        margin-left: 0px;
+        margin: auto;
+    }
+    .banner .banner-left p {
+        margin: 20px 0;
+        font-size: 17px;
+    }
+    .banner .banner-left button {
+        padding: 10px 30px;
+        font-size: 16px;
+    }
+    .banner .banner-right{
+        height: auto;
+        padding: 60px 15px;
+    }
+    .banner .banner-right form .card-body{
+        padding: 20px 40px;
+    }
+    .banner .banner-right form .card-body input{
+        margin-bottom: 20px;
+    }
+
+
+
+    .social-media{
+        text-align: center;
+    }
+    .social-media h3{
+        text-align: center;
+    }
+    .social-media .social-icons {
+        padding-bottom: 20px;
+    }
+    .social-media a{
+        font-size: 30px;
+    }
+
+
+    .three-tab-section {
+        padding: 60px 0;
+    }
+    .tab-left {
+        display: flex;
+        margin-bottom: 30px;
+    }
+    .three-tab-section .tab-left button {
+        padding: 25px;
+        margin: 0 10px;
+    }
+    .three-tab-section .tab-left button:first-child {
+        border-radius: 5px 0 0 5px;
+    }
+    .three-tab-section .tab-left button:last-child {
+        border-radius: 0 5px 5px 0;
+    }
+    .tab-left, .tab-middle , .tab-right {
+        justify-content: center !important;
+    }
+    .three-tab-section .tab-middle{
+        text-align: center;
+    }
+    .three-tab-section .tab-middle h3{
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .three-tab-section .tab-middle p{
+        margin: 10px 0;
+    }
+    .three-tab-section .tab-middle button{
+        margin-top: 20px;
+    }
+    .three-tab-section .tab-right{
+        margin-top: 50px;
+    }
+
+
+    .why-this-awsome-section {
+        padding: 60px 0;
+    }
+    .why-this-awsome-section .awsome{
+        margin-top: 30px;
+    }
+    .why-this-awsome-section .awsome img{
+        margin-bottom: 10px;
+    }
+
+
+    .pricing-section {
+        padding: 60px 0;
+    }
+    .pricing-section .pricings .pricing-card {
+        margin-bottom: 20px;
+    }
+
+
+    .testimonial-section {
+        padding: 60px 0;
+    }
+
+
+
+}
+
+
+/* X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {}
